@@ -13,7 +13,7 @@
 
 ## Demo URL
 
-https://gridsome-starter-blog.netlify.com
+https://gridsome-app-45zss2ysj.now.sh/
 
 ## Install
 
