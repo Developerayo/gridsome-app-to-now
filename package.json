@@ -5,7 +5,7 @@
     "build": "gridsome build",
     "develop": "gridsome develop",
     "explore": "gridsome explore",
-    "now-build": "npm run build"
+    "now-build": "yarn build"
   },
   "dependencies": {
     "@gridsome/plugin-google-analytics": "^0.1.0",
