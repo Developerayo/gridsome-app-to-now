@@ -1,4 +1,4 @@
-# Gridsome Blog Starter
+# Gridsome Blog Starter deploying to ZEIT now
 
 > A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.
 
@@ -26,4 +26,4 @@ https://gridsome-starter-blog.netlify.com
 1. `gridsome create my-gridsome-site https://github.com/gridsome/gridsome-starter-blog.git`
 2. `cd my-gridsome-site` to open folder
 3. `gridsome develop` to start local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+4. Happy coding :rocket: :fire:
