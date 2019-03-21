@@ -1,5 +1,7 @@
 # Gridsome Blog Starter deploying to ZEIT now
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Developerayo/gridsome-app-to-now.svg)](https://greenkeeper.io/)
+
 > A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.
 
 ## Features
