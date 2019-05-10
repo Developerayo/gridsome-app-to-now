@@ -621,9 +621,10 @@
     prismjs "^1.15.0"
     unist-util-visit "^1.4.0"
 
-"@gridsome/source-filesystem@^0.3.0":
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/@gridsome/source-filesystem/-/source-filesystem-0.3.0.tgz#c659440d014a9337e7db3de7109b6ce11e9ac74a"
+"@gridsome/source-filesystem@^0.4.1":
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/@gridsome/source-filesystem/-/source-filesystem-0.4.1.tgz#d42388988cecbf82150a6b07fe735d5ad9e721ec"
+  integrity sha512-bX2ykZSYqk4lDtmW/HgrMfDasMU+lclt9gDM0YDGkP+isDTqYp4sDaStgJFZrRju1OxT0532vcfqZ1g7nQKS4g==
   dependencies:
     chokidar "^2.0.4"
     fs-extra "^7.0.0"
