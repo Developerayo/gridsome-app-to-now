@@ -631,9 +631,10 @@
     lodash "^4.17.10"
     slash "^2.0.0"
 
-"@gridsome/transformer-remark@^0.2.0":
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/@gridsome/transformer-remark/-/transformer-remark-0.2.1.tgz#4d495abc21bd429160ef447f9c5a31142a46d06b"
+"@gridsome/transformer-remark@^0.3.1":
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/@gridsome/transformer-remark/-/transformer-remark-0.3.1.tgz#b81ca62e21b6769af740c320892e7da5e0435dc1"
+  integrity sha512-DAoouMPvFhdre+tkPPwmkUk0Nh0VWIABlO9f7h8tJ/aO7bqZ2wPR5/S83BFG80fUucmp2YOicAgMp3r2A5PPaA==
   dependencies:
     gray-matter "^4.0.2"
     hash-sum "^1.0.2"
